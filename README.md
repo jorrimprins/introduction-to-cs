@@ -8,4 +8,4 @@ This is a repository for the Introduction to Computational Science course at the
 #### Assignments:
 1. SIR-type models
 2. Stochastic SIR and discrete event simulation
-3. SIR-type model estimation on COVID-19 data (project)
+3. SIR-type model estimation on COVID-19 data (final project)
