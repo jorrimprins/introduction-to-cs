@@ -2,8 +2,8 @@
 This is a repository for the Introduction to Computational Science course at the University of Amsterdam (2020/2021).
 
 #### Authors:
-- Isabelle Brakenhoff
-- Jorrim Prins
+- Isabelle Brakenhoff (Assignment 2 and 3)
+- Jorrim Prins (All assignments)
 
 #### Assignments:
 1. SIR-type models
