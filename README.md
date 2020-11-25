@@ -6,6 +6,6 @@ This is a repository for the Introduction to Computational Science course at the
 - Jorrim Prins
 
 #### Assignments:
-- First assignment on SIR-type models
-- Second assignment on stochastic SIR and discrete event simulation
-- Project on SIR-type model estimation on COVID-19 data
+1. SIR-type models
+2. Stochastic SIR and discrete event simulation
+3. SIR-type model estimation on COVID-19 data (project)
